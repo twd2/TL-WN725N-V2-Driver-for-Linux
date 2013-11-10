@@ -20,7 +20,7 @@ Install
 	
 	`cd TL-WN725N-V2-Driver-for-Linux`
 
-	`zcat /proc/config.gz > .config`
+	`zcat /proc/config.gz > .config` (if /proc/config.gz exists)
 
 	`make`
 
