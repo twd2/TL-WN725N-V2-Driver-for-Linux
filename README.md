@@ -35,7 +35,7 @@ Install
 1. Configure as usual
 
 
-Reference
+References
 =========
 
 1. https://github.com/liwei/rpi-rtl8188eu
